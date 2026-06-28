@@ -8,9 +8,9 @@
 |-----|----------|
 | Tổng số file | **147** |
 | Tổng số dòng | **56,950** |
-| Dòng có bản dịch (`trans`) | **20,648** (36.3%) |
+| Dòng có bản dịch (`trans`) | **21,160** (37.2%) |
 | Dòng đã tinh chỉnh (`edit`) | **757** (1.3%) |
-| Dòng chưa dịch | **36,302** (63.7%) |
+| Dòng chưa dịch | **35,790** (62.8%) |
 
 ## Tiến Độ Theo Arc
 
@@ -18,7 +18,7 @@
 |-----|-------|------|-------|------|-----------|
 | 📖 Prologue | 13 | 3,542 | 3,529 (99.6%) | 739 (20.9%) | ✅ Gần hoàn thành |
 | 🏫 Common | 39 | 8,286 | 8,247 (99.5%) | 8 (0.1%) | ✅ Gần hoàn thành |
-| 🐱 Arc Kuro | 22 | 12,911 | 54 (0.4%) | 0 (0.0%) | 🟡 Mới bắt đầu |
+| 🐱 Arc Kuro | 22 | 12,911 | 566 (4.4%) | 0 (0.0%) | 🟡 Mới bắt đầu |
 | 🌸 Arc Haru | 19 | 11,757 | 0 (0.0%) | 0 (0.0%) | ⬜ Chưa dịch |
 | 🍡 Arc Chiwa | 24 | 9,827 | 8,422 (85.7%) | 10 (0.1%) | 🔄 Đang dịch |
 | 🌙 Arc Hiori | 22 | 7,483 | 0 (0.0%) | 0 (0.0%) | ⬜ Chưa dịch |
@@ -83,8 +83,8 @@
 | 050 | `sakumoyu-0050-common_037.xlsx` | common | 49 | 98.0% | 0.0% | ✅ |
 | 051 | `sakumoyu-0051-common_038-hiori.xlsx` | common | 101 | 99.0% | 0.0% | ✅ |
 | 052 | `sakumoyu-0052-common_039-chiwa_haru.xlsx` | common | 158 | 99.4% | 0.0% | ✅ |
-| 053 | `sakumoyu-0053-kuro_001.xlsx` | kuro | 411 | 4.4% | 0.0% | 🟡 |
-| 054 | `sakumoyu-0054-kuro_002.xlsx` | kuro | 361 | 10.0% | 0.0% | 🟡 |
+| 053 | `sakumoyu-0053-kuro_001.xlsx` | kuro | 411 | 99.8% | 0.0% | ✅ |
+| 054 | `sakumoyu-0054-kuro_002.xlsx` | kuro | 361 | 43.2% | 0.0% | 🟡 |
 | 055 | `sakumoyu-0055-kuro_003.xlsx` | kuro | 481 | 0.0% | 0.0% | ⬜ |
 | 056 | `sakumoyu-0056-kuro_004.xlsx` | kuro | 1077 | 0.0% | 0.0% | ⬜ |
 | 057 | `sakumoyu-0057-kuro_005.xlsx` | kuro | 1634 | 0.0% | 0.0% | ⬜ |

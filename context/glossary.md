@@ -16,7 +16,7 @@
 | `夢の寝床 / Yume no Nedoko` | **Yume no Nedoko** | GIỮ NGUYÊN tên Nhật. Có thể thêm chú thích "(trại mồ côi/ngôi nhà)" lần đầu nhắc đến. |
 | `三千の町 / Sanzen no Machi` | **Thị trấn Sanzen** | GIỮ "Sanzen". Không dịch là "thị trấn ba nghìn". |
 | `鍵 / Kagi` | **chìa khóa** | Vật phẩm ma pháp. Viết thường trong câu, trừ khi nhấn mạnh: "Chìa khóa". |
-| `夜王 / Yoru-ou` | **Dạ Vương** | Kẻ thù cuối cùng. Viết hoa. |
+| `夜王 / 夜の王 / 夜の王さま / Yoru-ou` | **Dạ Vương** | Dạ Vương (Kẻ thù cuối cùng). Viết hoa. |
 | `時の果ての駅 / Toki no Hate no Eki` | **ga cuối của thời gian / Nhà ga cuối cùng của thời gian** | Nơi Nana quản lý. |
 | `最後の魔法 / Saigo no Mahou` | **Ma pháp cuối cùng** | Kỹ năng đặc biệt của Haru. |
 | `人生の試練 / Jinsei no Shiren` | **Thử thách cuộc đời** | Phrase quan trọng trong arc Haru. |
@@ -42,9 +42,11 @@
 ## Quy Tắc Kỹ Thuật Bắt Buộc
 
 1. **Tag VN KHÔNG ĐƯỢC DỊCH**: `[p]`, `[r]`, `\n`, `@`, tên file ảnh/âm thanh
-2. **Dấu ba chấm `...`**: Giữ NGUYÊN. Đây là pause quan trọng, không thay bằng dấu phẩy hay gạch ngang.
+2. **Dấu ba chấm `...`**: Giữ NGUYÊN. Đây là pause quan trọng. KHÔNG dùng kết hợp dấu chấm ngay trước dấu ba chấm (như `. ...` hoặc `....`). Chỉ dùng duy nhất dấu ba chấm `...` theo đúng ngữ pháp Việt Nam.
 3. **Dấu gạch ngang kép `--`**: Thường dùng cho câu bị ngắt đột ngột. Giữ nguyên hoặc dùng `—`.
 4. **Chữ nghiêng `*text*`**: Nhấn mạnh tâm lý. Có thể dùng `*text*` hoặc để nguyên.
 5. **Dấu ngoặc kép `「」`**: Chuyển thành dấu ngoặc kép thẳng `"..."` trong tiếng Việt.
 6. **Dấu ngoặc 「』**: Câu trích dẫn đặc biệt — dùng `『...』` giữ nguyên.
 7. **Không thêm giải thích**: Output chỉ là bản dịch. Không thêm chú thích cuối bài.
+8. **Văn phong tự nhiên, tránh "tu tiên"**: Không lạm dụng từ Hán-Việt hay từ cổ mang sắc thái kiếm hiệp/tu tiên (như "ngự", "ngự trị", "ngự ở đó") cho các hành động/trạng thái bình thường. Chỉ dùng văn phong bay bổng khi thật sự cần thiết (nội tâm sâu lắng, triết lý), bình thường cứ dịch giản dị, tự nhiên.
+9. **Quy tắc chính tả i/y (Bộ Giáo dục 1984)**: Thống nhất viết "i" cho âm cuối /i/ khi không thay đổi âm và nghĩa (ví dụ: hi sinh, mĩ thuật, vật lí, kỉ niệm, thẩm mĩ, kì lạ...). Đứng sau âm đệm "u" thì viết "y" (ví dụ: huy hiệu, quý báu, thủy chung...). Đứng một mình: từ Hán Việt viết "y" (y khoa, ý nghĩa, y tá...), từ thuần Việt viết "i" (í ới, ì xèo, âm ỉ...). Ngoại lệ: Tên riêng (tên người, tên đất) viết theo cách truyền thống (Lý Bôn, Lý Thường Kiệt, triều Lý, Phú Mỹ Hưng...).

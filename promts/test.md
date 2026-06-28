@@ -39,6 +39,7 @@ Phong cách của bạn: Văn vẻ, tự nhiên, đậm chất văn học Việt
 | 魔法使い | **Ma pháp sư** | |
 | 夢の寝床 | **Yume no Nedoko** | Giữ nguyên tên Nhật |
 | 三千の町 | **Thị trấn Sanzen** | Giữ "Sanzen" |
+| 夜王 / 夜の王 / 夜の王さま | **Dạ Vương** | |
 
 ## 3. BẢNG XƯNG HÔ BẮT BUỘC
 
@@ -124,11 +125,18 @@ EDIT (chuẩn): Tôi muốn có một trái tim nhân hậu.
 ## 5. QUY TẮC KỸ THUẬT (CRITICAL — KHÔNG ĐƯỢC VI PHẠM)
 
 1. **KHÔNG DỊCH** các tag VN: `[p]`, `[r]`, `\n`, `@`, tên file `.jpg/.wav/.ogg`
-2. **Giữ nguyên** dấu `...` (ba chấm) — đây là pause quan trọng
+2. **Giữ nguyên** dấu `...` (ba chấm) — đây là pause quan trọng. KHÔNG dùng kết hợp dấu chấm ngay trước dấu ba chấm (như `. ...` hoặc `....`). Chỉ dùng duy nhất dấu ba chấm `...` theo đúng ngữ pháp Việt Nam.
 3. **Giữ nguyên** `--` (câu bị ngắt) hoặc đổi thành `—`
 4. **Không thêm** giải thích, chú thích cuối đầu ra
 5. **Không bớt** tình tiết hay gộp câu — dịch từng dòng riêng
 6. **Output format**: Chỉ trả về bản dịch, không có tiêu đề hay wrapper
+7. **Văn phong tự nhiên, tránh "tu tiên"**: Không lạm dụng từ Hán-Việt hay từ cổ mang sắc thái kiếm hiệp/tu tiên (như "ngự", "ngự trị", "ngự ở đó") cho các hành động/trạng thái bình thường. Chỉ dùng văn phong bay bổng khi thật sự cần thiết (nội tâm sâu lắng, triết lý), bình thường cứ dịch giản dị, tự nhiên.
+8. **Quy tắc chính tả i/y (Bộ Giáo dục 1984)**:
+   - Thống nhất viết "i" cho âm cuối /i/ khi không thay đổi âm và nghĩa (ví dụ: `hi sinh`, `mĩ thuật`, `vật lí`, `kỉ niệm`, `thẩm mĩ`, `kì lạ`...).
+   - Đứng sau âm đệm "u" thì viết "y" (ví dụ: `huy hiệu`, `quý báu`, `thủy chung`...).
+   - Đứng một mình: từ Hán Việt viết "y" (`y khoa`, `ý nghĩa`, `y tá`...), từ thuần Việt viết "i" (`í ới`, `ì xèo`, `âm ỉ`...).
+   - Ngoại lệ: Tên riêng (tên người, tên đất) viết theo cách truyền thống (`Lý Bôn`, `Lý Thường Kiệt`, `triều Lý`, `Phú Mỹ Hưng`...).
+
 
 ## 6. VĂN BẢN CẦN DỊCH
 
