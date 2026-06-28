@@ -1,0 +1,1325 @@
+[
+  {
+    "file": "sakumoyu-0001-prologue_001.xlsx",
+    "arc": "prologue",
+    "rows": 378,
+    "trans": 377,
+    "edit": 377,
+    "pct_trans": 99.7,
+    "pct_edit": 99.7
+  },
+  {
+    "file": "sakumoyu-0002-prologue_002.xlsx",
+    "arc": "prologue",
+    "rows": 500,
+    "trans": 499,
+    "edit": 356,
+    "pct_trans": 99.8,
+    "pct_edit": 71.2
+  },
+  {
+    "file": "sakumoyu-0003-prologue_003.xlsx",
+    "arc": "prologue",
+    "rows": 466,
+    "trans": 465,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0004-prologue_004.xlsx",
+    "arc": "prologue",
+    "rows": 426,
+    "trans": 425,
+    "edit": 1,
+    "pct_trans": 99.8,
+    "pct_edit": 0.2
+  },
+  {
+    "file": "sakumoyu-0005-prologue_005.xlsx",
+    "arc": "prologue",
+    "rows": 320,
+    "trans": 319,
+    "edit": 1,
+    "pct_trans": 99.7,
+    "pct_edit": 0.3
+  },
+  {
+    "file": "sakumoyu-0006-prologue_006.xlsx",
+    "arc": "prologue",
+    "rows": 147,
+    "trans": 146,
+    "edit": 0,
+    "pct_trans": 99.3,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0007-prologue_007.xlsx",
+    "arc": "prologue",
+    "rows": 273,
+    "trans": 272,
+    "edit": 4,
+    "pct_trans": 99.6,
+    "pct_edit": 1.5
+  },
+  {
+    "file": "sakumoyu-0008-prologue_008.xlsx",
+    "arc": "prologue",
+    "rows": 238,
+    "trans": 237,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0009-prologue_009.xlsx",
+    "arc": "prologue",
+    "rows": 82,
+    "trans": 81,
+    "edit": 0,
+    "pct_trans": 98.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0010-prologue_010.xlsx",
+    "arc": "prologue",
+    "rows": 233,
+    "trans": 232,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0011-prologue_011.xlsx",
+    "arc": "prologue",
+    "rows": 171,
+    "trans": 170,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0012-prologue_012.xlsx",
+    "arc": "prologue",
+    "rows": 157,
+    "trans": 156,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0013-prologue_013.xlsx",
+    "arc": "prologue",
+    "rows": 151,
+    "trans": 150,
+    "edit": 0,
+    "pct_trans": 99.3,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0014-common_001.xlsx",
+    "arc": "common",
+    "rows": 295,
+    "trans": 294,
+    "edit": 1,
+    "pct_trans": 99.7,
+    "pct_edit": 0.3
+  },
+  {
+    "file": "sakumoyu-0015-common_002.xlsx",
+    "arc": "common",
+    "rows": 213,
+    "trans": 212,
+    "edit": 0,
+    "pct_trans": 99.5,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0016-common_003.xlsx",
+    "arc": "common",
+    "rows": 158,
+    "trans": 157,
+    "edit": 1,
+    "pct_trans": 99.4,
+    "pct_edit": 0.6
+  },
+  {
+    "file": "sakumoyu-0017-common_004.xlsx",
+    "arc": "common",
+    "rows": 226,
+    "trans": 225,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0018-common_005.xlsx",
+    "arc": "common",
+    "rows": 124,
+    "trans": 123,
+    "edit": 0,
+    "pct_trans": 99.2,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0019-common_006.xlsx",
+    "arc": "common",
+    "rows": 52,
+    "trans": 51,
+    "edit": 0,
+    "pct_trans": 98.1,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0020-common_007.xlsx",
+    "arc": "common",
+    "rows": 199,
+    "trans": 198,
+    "edit": 0,
+    "pct_trans": 99.5,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0021-common_008.xlsx",
+    "arc": "common",
+    "rows": 269,
+    "trans": 268,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0022-common_009.xlsx",
+    "arc": "common",
+    "rows": 135,
+    "trans": 134,
+    "edit": 0,
+    "pct_trans": 99.3,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0023-common_010.xlsx",
+    "arc": "common",
+    "rows": 176,
+    "trans": 175,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0024-common_011.xlsx",
+    "arc": "common",
+    "rows": 157,
+    "trans": 156,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0025-common_012.xlsx",
+    "arc": "common",
+    "rows": 104,
+    "trans": 103,
+    "edit": 0,
+    "pct_trans": 99.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0026-common_013.xlsx",
+    "arc": "common",
+    "rows": 305,
+    "trans": 304,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0027-common_014.xlsx",
+    "arc": "common",
+    "rows": 429,
+    "trans": 428,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0028-common_015.xlsx",
+    "arc": "common",
+    "rows": 116,
+    "trans": 115,
+    "edit": 0,
+    "pct_trans": 99.1,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0029-common_016.xlsx",
+    "arc": "common",
+    "rows": 115,
+    "trans": 114,
+    "edit": 0,
+    "pct_trans": 99.1,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0030-common_017.xlsx",
+    "arc": "common",
+    "rows": 44,
+    "trans": 43,
+    "edit": 0,
+    "pct_trans": 97.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0031-common_018.xlsx",
+    "arc": "common",
+    "rows": 267,
+    "trans": 266,
+    "edit": 2,
+    "pct_trans": 99.6,
+    "pct_edit": 0.7
+  },
+  {
+    "file": "sakumoyu-0032-common_019.xlsx",
+    "arc": "common",
+    "rows": 116,
+    "trans": 115,
+    "edit": 0,
+    "pct_trans": 99.1,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0033-common_020.xlsx",
+    "arc": "common",
+    "rows": 325,
+    "trans": 324,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0034-common_021.xlsx",
+    "arc": "common",
+    "rows": 204,
+    "trans": 203,
+    "edit": 1,
+    "pct_trans": 99.5,
+    "pct_edit": 0.5
+  },
+  {
+    "file": "sakumoyu-0035-common_022.xlsx",
+    "arc": "common",
+    "rows": 437,
+    "trans": 436,
+    "edit": 2,
+    "pct_trans": 99.8,
+    "pct_edit": 0.5
+  },
+  {
+    "file": "sakumoyu-0036-common_023.xlsx",
+    "arc": "common",
+    "rows": 123,
+    "trans": 122,
+    "edit": 0,
+    "pct_trans": 99.2,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0037-common_024.xlsx",
+    "arc": "common",
+    "rows": 178,
+    "trans": 177,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0038-common_025.xlsx",
+    "arc": "common",
+    "rows": 443,
+    "trans": 442,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0039-common_026.xlsx",
+    "arc": "common",
+    "rows": 56,
+    "trans": 55,
+    "edit": 0,
+    "pct_trans": 98.2,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0040-common_027.xlsx",
+    "arc": "common",
+    "rows": 272,
+    "trans": 271,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0041-common_028.xlsx",
+    "arc": "common",
+    "rows": 101,
+    "trans": 100,
+    "edit": 0,
+    "pct_trans": 99.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0042-common_029.xlsx",
+    "arc": "common",
+    "rows": 247,
+    "trans": 246,
+    "edit": 1,
+    "pct_trans": 99.6,
+    "pct_edit": 0.4
+  },
+  {
+    "file": "sakumoyu-0043-common_030.xlsx",
+    "arc": "common",
+    "rows": 546,
+    "trans": 545,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0044-common_031.xlsx",
+    "arc": "common",
+    "rows": 267,
+    "trans": 266,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0045-common_032.xlsx",
+    "arc": "common",
+    "rows": 865,
+    "trans": 864,
+    "edit": 0,
+    "pct_trans": 99.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0046-common_033.xlsx",
+    "arc": "common",
+    "rows": 226,
+    "trans": 225,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0047-common_034.xlsx",
+    "arc": "common",
+    "rows": 32,
+    "trans": 31,
+    "edit": 0,
+    "pct_trans": 96.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0048-common_035-chiwa.xlsx",
+    "arc": "common",
+    "rows": 75,
+    "trans": 74,
+    "edit": 0,
+    "pct_trans": 98.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0049-common_036-hiori.xlsx",
+    "arc": "common",
+    "rows": 81,
+    "trans": 80,
+    "edit": 0,
+    "pct_trans": 98.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0050-common_037.xlsx",
+    "arc": "common",
+    "rows": 49,
+    "trans": 48,
+    "edit": 0,
+    "pct_trans": 98.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0051-common_038-hiori.xlsx",
+    "arc": "common",
+    "rows": 101,
+    "trans": 100,
+    "edit": 0,
+    "pct_trans": 99.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0052-common_039-chiwa_haru.xlsx",
+    "arc": "common",
+    "rows": 158,
+    "trans": 157,
+    "edit": 0,
+    "pct_trans": 99.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0053-kuro_001.xlsx",
+    "arc": "kuro",
+    "rows": 411,
+    "trans": 18,
+    "edit": 0,
+    "pct_trans": 4.4,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0054-kuro_002.xlsx",
+    "arc": "kuro",
+    "rows": 361,
+    "trans": 36,
+    "edit": 0,
+    "pct_trans": 10.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0055-kuro_003.xlsx",
+    "arc": "kuro",
+    "rows": 481,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0056-kuro_004.xlsx",
+    "arc": "kuro",
+    "rows": 1077,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0057-kuro_005.xlsx",
+    "arc": "kuro",
+    "rows": 1634,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0058-kuro_006.xlsx",
+    "arc": "kuro",
+    "rows": 556,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0059-kuro_007.xlsx",
+    "arc": "kuro",
+    "rows": 379,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0060-kuro_008.xlsx",
+    "arc": "kuro",
+    "rows": 605,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0061-kuro_009.xlsx",
+    "arc": "kuro",
+    "rows": 678,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0062-kuro_010.xlsx",
+    "arc": "kuro",
+    "rows": 316,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0063-kuro_011.xlsx",
+    "arc": "kuro",
+    "rows": 812,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0064-kuro_012.xlsx",
+    "arc": "kuro",
+    "rows": 912,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0065-kuro_013.xlsx",
+    "arc": "kuro",
+    "rows": 197,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0066-kuro_014.xlsx",
+    "arc": "kuro",
+    "rows": 463,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0067-kuro_015.xlsx",
+    "arc": "kuro",
+    "rows": 500,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0068-kuro_016.xlsx",
+    "arc": "kuro",
+    "rows": 552,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0069-kuro_017.xlsx",
+    "arc": "kuro",
+    "rows": 837,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0070-kuro_018.xlsx",
+    "arc": "kuro",
+    "rows": 442,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0071-kuro_019.xlsx",
+    "arc": "kuro",
+    "rows": 777,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0072-kuro_020.xlsx",
+    "arc": "kuro",
+    "rows": 590,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0073-kuro_021.xlsx",
+    "arc": "kuro",
+    "rows": 71,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0074-kuro_022.xlsx",
+    "arc": "kuro",
+    "rows": 260,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0075-haru_001.xlsx",
+    "arc": "haru",
+    "rows": 962,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0076-haru_002.xlsx",
+    "arc": "haru",
+    "rows": 589,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0077-haru_003.xlsx",
+    "arc": "haru",
+    "rows": 538,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0078-haru_004.xlsx",
+    "arc": "haru",
+    "rows": 181,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0079-haru_005.xlsx",
+    "arc": "haru",
+    "rows": 781,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0080-haru_006.xlsx",
+    "arc": "haru",
+    "rows": 346,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0081-haru_007.xlsx",
+    "arc": "haru",
+    "rows": 363,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0082-haru_008.xlsx",
+    "arc": "haru",
+    "rows": 1261,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0083-haru_009.xlsx",
+    "arc": "haru",
+    "rows": 508,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0084-haru_010.xlsx",
+    "arc": "haru",
+    "rows": 357,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0085-haru_011.xlsx",
+    "arc": "haru",
+    "rows": 451,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0086-haru_012.xlsx",
+    "arc": "haru",
+    "rows": 505,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0087-haru_013.xlsx",
+    "arc": "haru",
+    "rows": 554,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0088-haru_014.xlsx",
+    "arc": "haru",
+    "rows": 891,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0089-haru_015.xlsx",
+    "arc": "haru",
+    "rows": 675,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0090-haru_016.xlsx",
+    "arc": "haru",
+    "rows": 820,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0091-haru_017.xlsx",
+    "arc": "haru",
+    "rows": 355,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0092-haru_018.xlsx",
+    "arc": "haru",
+    "rows": 1354,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0093-haru_019.xlsx",
+    "arc": "haru",
+    "rows": 266,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0094-chiwa_001.xlsx",
+    "arc": "chiwa",
+    "rows": 339,
+    "trans": 338,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0095-chiwa_002.xlsx",
+    "arc": "chiwa",
+    "rows": 244,
+    "trans": 242,
+    "edit": 0,
+    "pct_trans": 99.2,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0096-chiwa_003.xlsx",
+    "arc": "chiwa",
+    "rows": 112,
+    "trans": 111,
+    "edit": 0,
+    "pct_trans": 99.1,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0097-chiwa_004.xlsx",
+    "arc": "chiwa",
+    "rows": 1002,
+    "trans": 1001,
+    "edit": 0,
+    "pct_trans": 99.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0098-chiwa_005.xlsx",
+    "arc": "chiwa",
+    "rows": 247,
+    "trans": 246,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0099-chiwa_006.xlsx",
+    "arc": "chiwa",
+    "rows": 234,
+    "trans": 233,
+    "edit": 0,
+    "pct_trans": 99.6,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0100-chiwa_007.xlsx",
+    "arc": "chiwa",
+    "rows": 511,
+    "trans": 510,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0101-chiwa_008.xlsx",
+    "arc": "chiwa",
+    "rows": 449,
+    "trans": 448,
+    "edit": 1,
+    "pct_trans": 99.8,
+    "pct_edit": 0.2
+  },
+  {
+    "file": "sakumoyu-0102-chiwa_009.xlsx",
+    "arc": "chiwa",
+    "rows": 695,
+    "trans": 694,
+    "edit": 0,
+    "pct_trans": 99.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0103-chiwa_010.xlsx",
+    "arc": "chiwa",
+    "rows": 512,
+    "trans": 511,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0104-chiwa_011.xlsx",
+    "arc": "chiwa",
+    "rows": 243,
+    "trans": 242,
+    "edit": 2,
+    "pct_trans": 99.6,
+    "pct_edit": 0.8
+  },
+  {
+    "file": "sakumoyu-0105-chiwa_012.xlsx",
+    "arc": "chiwa",
+    "rows": 365,
+    "trans": 364,
+    "edit": 6,
+    "pct_trans": 99.7,
+    "pct_edit": 1.6
+  },
+  {
+    "file": "sakumoyu-0106-chiwa_013.xlsx",
+    "arc": "chiwa",
+    "rows": 697,
+    "trans": 696,
+    "edit": 0,
+    "pct_trans": 99.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0107-chiwa_014.xlsx",
+    "arc": "chiwa",
+    "rows": 408,
+    "trans": 407,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0108-chiwa_015.xlsx",
+    "arc": "chiwa",
+    "rows": 691,
+    "trans": 690,
+    "edit": 0,
+    "pct_trans": 99.9,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0109-chiwa_016.xlsx",
+    "arc": "chiwa",
+    "rows": 344,
+    "trans": 343,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0110-chiwa_017.xlsx",
+    "arc": "chiwa",
+    "rows": 539,
+    "trans": 538,
+    "edit": 0,
+    "pct_trans": 99.8,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0111-chiwa_018.xlsx",
+    "arc": "chiwa",
+    "rows": 389,
+    "trans": 388,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0112-chiwa_019.xlsx",
+    "arc": "chiwa",
+    "rows": 421,
+    "trans": 420,
+    "edit": 1,
+    "pct_trans": 99.8,
+    "pct_edit": 0.2
+  },
+  {
+    "file": "sakumoyu-0113-chiwa_020.xlsx",
+    "arc": "chiwa",
+    "rows": 436,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0114-chiwa_021.xlsx",
+    "arc": "chiwa",
+    "rows": 444,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0115-chiwa_022.xlsx",
+    "arc": "chiwa",
+    "rows": 183,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0116-chiwa_023.xlsx",
+    "arc": "chiwa",
+    "rows": 202,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0117-chiwa_024.xlsx",
+    "arc": "chiwa",
+    "rows": 120,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0118-hiori_001.xlsx",
+    "arc": "hiori",
+    "rows": 287,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0119-hiori_002.xlsx",
+    "arc": "hiori",
+    "rows": 311,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0120-hiori_003.xlsx",
+    "arc": "hiori",
+    "rows": 477,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0121-hiori_004.xlsx",
+    "arc": "hiori",
+    "rows": 437,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0122-hiori_005.xlsx",
+    "arc": "hiori",
+    "rows": 581,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0123-hiori_006.xlsx",
+    "arc": "hiori",
+    "rows": 367,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0124-hiori_007.xlsx",
+    "arc": "hiori",
+    "rows": 599,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0125-hiori_008.xlsx",
+    "arc": "hiori",
+    "rows": 350,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0126-hiori_009.xlsx",
+    "arc": "hiori",
+    "rows": 305,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0127-hiori_010.xlsx",
+    "arc": "hiori",
+    "rows": 286,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0128-hiori_011.xlsx",
+    "arc": "hiori",
+    "rows": 365,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0129-hiori_012.xlsx",
+    "arc": "hiori",
+    "rows": 414,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0130-hiori_013.xlsx",
+    "arc": "hiori",
+    "rows": 191,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0131-hiori_014.xlsx",
+    "arc": "hiori",
+    "rows": 195,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0132-hiori_015.xlsx",
+    "arc": "hiori",
+    "rows": 341,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0133-hiori_016.xlsx",
+    "arc": "hiori",
+    "rows": 191,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0134-hiori_017.xlsx",
+    "arc": "hiori",
+    "rows": 292,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0135-hiori_018.xlsx",
+    "arc": "hiori",
+    "rows": 451,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0136-hiori_019.xlsx",
+    "arc": "hiori",
+    "rows": 318,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0137-hiori_020.xlsx",
+    "arc": "hiori",
+    "rows": 261,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0138-hiori_021.xlsx",
+    "arc": "hiori",
+    "rows": 156,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0139-hiori_022.xlsx",
+    "arc": "hiori",
+    "rows": 308,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0140-kuro_h1.xlsx",
+    "arc": "kuro_harem",
+    "rows": 587,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0141-kuro_h2.xlsx",
+    "arc": "kuro_harem",
+    "rows": 381,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0142-haru_h1.xlsx",
+    "arc": "haru_harem",
+    "rows": 398,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0143-haru_h2.xlsx",
+    "arc": "haru_harem",
+    "rows": 327,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0144-chiwa_h1.xlsx",
+    "arc": "chiwa_harem",
+    "rows": 397,
+    "trans": 396,
+    "edit": 0,
+    "pct_trans": 99.7,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0145-chiwa_h2.xlsx",
+    "arc": "chiwa_harem",
+    "rows": 297,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0146-hiori_h1.xlsx",
+    "arc": "hiori_harem",
+    "rows": 304,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  },
+  {
+    "file": "sakumoyu-0147-hiori_h2.xlsx",
+    "arc": "hiori_harem",
+    "rows": 453,
+    "trans": 0,
+    "edit": 0,
+    "pct_trans": 0.0,
+    "pct_edit": 0.0
+  }
+]
