@@ -251,6 +251,7 @@ def write_translations(
     df = _load_df(filename)
     if column not in df.columns:
         df[column] = None
+    df[column] = df[column].astype(object)
 
     written, errors = 0, []
     for item in translations:
