@@ -1,8 +1,0 @@
-# Translation Rules & Continuity
-
-## Character: Natch (ナハト)
-- **Pronouns in Soliloquy / Internal Thoughts (Độc thoại):** Tự xưng là "tôi".
-- **Pronouns when Speaking to Others (Thoại thường):** Tự xưng là "ta".
-- **Pronouns for "We" (俺たち):** "chúng tôi" (độc thoại) hoặc "chúng ta" (khi nói chuyện).
-- **Attitude towards humans:** Thể hiện sự khinh bỉ, căm ghét. Dùng từ ngữ như "lũ con người", "những con người yếu ớt", v.v. Không gọi chung là "con người" hay "mọi người" một cách trung lập.
-- **Tone & Flow:** Văn phong nói chuyện cần tự nhiên, gãy gọn, tránh sử dụng câu bị động lủng củng.
