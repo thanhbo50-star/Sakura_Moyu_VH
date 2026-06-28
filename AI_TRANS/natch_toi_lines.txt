@@ -1,0 +1,724 @@
+[nan] Row 3
+Org: 俺たちは言い合いをしていた。
+Trans: Chúng tôi đang tranh cãi.
+
+[nan] Row 9
+Org: “夜”の中での俺の“役割”は、外の世界で悲しい思いをしている子を攫い、その命を悲しい心ごと“夜”のさくらに捧げることで……。
+Trans: "Vai trò" của tôi trong "Dạ" là bắt cóc những đứa trẻ đang chịu đau khổ ở thế giới bên ngoài, và hiến dâng sinh mạng cùng trái tim đau buồn đó cho hoa anh đào của "Dạ"...
+
+[nan] Row 10
+Org: 代わりに、少女たちには永遠を贈る。
+Trans: Đổi lại, chúng tôi sẽ ban cho các thiếu nữ sự vĩnh hằng.
+
+[nan] Row 11
+Org: そのような“役割”に従事することが自分の命の価値だと思おうとしていた。
+Trans: Tôi đã cố nghĩ rằng việc tuân theo "vai trò" đó chính là giá trị cho sinh mạng của mình.
+
+[nan] Row 14
+Org: すると俺たちはその子のことを知らずにはいられない。
+Trans: Làm vậy để chúng tôi không thể không chú ý đến cô bé.
+
+[nan] Row 15
+Org: 俺たち“怪物”はそんな子らの心を敏感に感取ってしまうように出来ていて……しかし。
+Trans: Lũ "quái vật" chúng tôi được sinh ra để nhạy cảm với trái tim của những đứa trẻ như thế... nhưng mà.
+
+[nan] Row 16
+Org: しかしその子は、“怪物”である俺たちをおびき寄せるための餌だった。
+Trans: Nhưng cô bé ấy lại là mổi nhử để dụ dỗ chúng tôi, những "quái vật".
+
+[nan] Row 17
+Org: それが罠だとは想像だにできず――俺たちは少女を“不死”にした。
+Trans: Không thể ngờ đó là một cái bẫy—chúng tôi đã biến thiếu nữ ấy thành "bất tử".
+
+[nan] Row 18
+Org: 永遠を付与された子の肉を、骨を、血液を、そのすべてを喰らえば“不死”となれる――そのような迷信を信じた人間によって、前回攫って来た子は喰われてしまったのだった。
+Trans: Nếu ăn thịt, xương, và máu của đứa trẻ được ban cho sự vĩnh hằng, kẻ đó sẽ trở nên "bất tử"—bởi những con người tin vào sự mê tín đó, cô bé chúng tôi bắt về lần trước đã bị ăn thịt.
+
+[nan] Row 19
+Org: 俺たちがその子を殺したようなもの。
+Trans: Chẳng khác nào chính chúng tôi đã giết cô bé.
+
+[nan] Row 20
+Org: もう二度と女の子を攫わない。これは俺たちの生きる意味なんかじゃなかったんだ。あいつとはそう確認し合えていたはずなのに……。
+Trans: Sẽ không bao giờ bắt cóc bé gái nào nữa. Đây không phải là ý nghĩa sống của chúng tôi. Lẽ ra tôi và hắn đã xác nhận với nhau như vậy rồi mà...
+
+[nan] Row 22
+Org: あいつの背中に隠れるようにして、小さな、本当に小さな女の子がいた。俺を恐る恐る見上げている。
+Trans: Nấp sau lưng hắn là một bé gái nhỏ, thật sự rất nhỏ. Cô bé đang sợ hãi ngước nhìn tôi.
+
+[nan] Row 24
+Org: そんな目で俺を見ないでくれ。怖がらないでくれ。……お願いだ。
+Trans: Đừng nhìn tôi bằng ánh mắt đó. Đừng sợ hãi tôi... Làm ơn đi.
+
+[nan] Row 25
+Org: 前回の子もそうだったのだ。俺には決して懐かず、怖がるばかりで……。
+Trans: Cô bé lần trước cũng vậy. Chẳng bao giờ thân thiết với tôi, chỉ toàn sợ hãi...
+
+[nan] Row 32
+Org: 俺たちにあえて攫わせ、不死にさせられた後、再び俺たちの元から少女を攫い――宴を催す。それがこの子の命の価値だ。そのためだけに、この世に産まれてきた命。
+Trans: Cố tình để chúng tôi bắt cóc, sau khi trở nên bất tử thì lại bắt cô bé về từ tay chúng tôi—và tổ chức yến tiệc. Đó là giá trị sinh mạng của cô bé này. Một sinh mạng được sinh ra chỉ vì mục đích đó.
+
+[ソル] Row 34
+Org: ……ああ、だからあの子のことを不死にはしない。君にはそうお願いしたいんだ
+Trans: ...À, thế nên tôi sẽ không biến cô bé này thành bất tử. Tôi muốn nhờ cậu chuyện đó.
+
+[nan] Row 35
+Org: 攫ってきた子を寝かしつけてから、あいつは俺にそう言った。
+Trans: Sau khi ru cô bé ngủ, hắn nói với tôi như vậy.
+
+[ソル] Row 39
+Org: ……ああ。だからあの子には、外の世界ででも自分ひとりで生きていけるだけの賢さを学んでいってほしい。そういうふうにして育てていこうと思う
+Trans: ...Ừ. Vì vậy tôi muốn dạy cho con bé đủ khôn ngoan để có thể tự mình sống sót ở thế giới bên ngoài. Tôi định sẽ nuôi dạy con bé theo cách đó.
+
+[ソル] Row 40
+Org: そして願わくば、共に支え合って歩いて行ける、そんな誰かと出会ってほしい。それらが全部揃うまでは、あの子の人生に責任を持ちたい。そう、願ってる
+Trans: Và tôi hy vọng con bé sẽ gặp được ai đó có thể cùng nương tựa và bước tiếp. Cho đến khi tất cả những điều đó thành hiện thực, tôi muốn chịu trách nhiệm về cuộc đời của con bé. Tôi mong là vậy.
+
+[nan] Row 44
+Org: お前はそれで平気なのかと問いかける。
+Trans: Tôi hỏi hắn liệu có thấy ổn với chuyện đó không.
+
+[ソル] Row 48
+Org: ……だって、そうだろ。責任がある。あの子をひとりにしてしまった責任が、私にはある。だから……
+Trans: ...Bởi vì, đúng không. Tôi có trách nhiệm. Trách nhiệm vì đã để cô bé ấy cô độc. Thế nên...
+
+[nan] Row 53
+Org: あんなことを言われてしまえば、これ以上“だめだ”とは言えなくなる――俺の“夢”を知っているからこそ、あいつはきっとそんなことを言ったのだろうから。
+Trans: Bị hắn nói như vậy, tôi không thể nào nói "không được" nữa—chắc hẳn hắn nói vậy vì biết đến "ước mơ" của tôi.
+
+[nan] Row 54
+Org: だが、条件をひとつだけ提示した。
+Trans: Nhưng tôi đã đưa ra một điều kiện.
+
+[ナハト] Row 55
+Org: 俺はできるだけあの子には関わらない。理由なんてわざわざ聞くなよ。わかるだろ。俺は見ての通り醜いんだ。怖いんだ。“怪物”、なんだ
+Trans: Tôi sẽ hạn chế can dự vào cô bé hết mức có thể. Đừng có hỏi lý do. Cậu hiểu mà. Nhìn đi, tôi xấu xí thế này cơ mà. Đáng sợ lắm. Là "quái vật" đấy.
+
+[ナハト] Row 56
+Org: そんな俺が近寄っても無駄に怖がらせてしまうだけだし、泣かれでもしたらいよいよだ。そんな子どもを相手にするのは面倒なんだよ
+Trans: Kẻ như tôi lại gần chỉ khiến con bé sợ hãi vô ích thôi, và nếu nó khóc thì phiền lắm. Tôi ngại đối phó với trẻ con như thế lắm.
+
+[ナハト] Row 57
+Org: だからお前がすべて世話をしろ。責任を持ってだ。俺はいっさい、手を貸さない。いいな？
+Trans: Thế nên cậu hãy lo liệu tất cả đi. Chịu trách nhiệm đi nhé. Tôi sẽ không giúp một tay nào đâu. Rõ chưa?
+
+[nan] Row 58
+Org: まあ、こんな条件を出すまでもない。俺の命は愛されることのない命。あの子は俺になど近寄ろうともしないはずだ。これまでの子らと同じように。
+Trans: Mà, chẳng cần đưa ra điều kiện này làm gì. Mạng sống của tôi là thứ không được ai yêu thương. Con bé chắc chắn cũng sẽ chẳng muốn lại gần tôi. Giống như những đứa trẻ trước đây thôi.
+
+[nan] Row 59
+Org: ただ、条件だとか面倒なことを言っておけば、あいつも俺に気を遣うこともなく新しい子を迎え入れられるだろうと、ただ、そう思っての発言に過ぎなかったのだが――……。
+Trans: Chỉ là, nếu nói ra mấy điều kiện hay mấy lời phiền phức, hắn sẽ không cần phải bận tâm đến tôi mà thoải mái đón nhận đứa trẻ mới, tôi chỉ nghĩ đơn giản vậy thôi—...nhưng mà.
+
+[nan] Row 61
+Org: まず、俺のことを怖がらない。
+Trans: Đầu tiên, con bé không sợ tôi.
+
+[nan] Row 62
+Org: 家にやって来た最初の“夜”こそ、その他の子らとまったく同じように、醜いばかりのこの俺のことを怖がっているように見えたのに……。
+Trans: Cái "Dạ" đầu tiên khi nó đến nhà, rõ ràng nó cũng sợ hãi vẻ ngoài xấu xí này của tôi giống hệt những đứa trẻ khác, vậy mà...
+
+[nan] Row 64
+Org: 朝、フロアで新聞を読んでいる俺のことを、物陰からじっと見つめていた。
+Trans: Buổi sáng, khi tôi đang đọc báo ở sảnh, con bé cứ nhìn chằm chằm tôi từ trong bóng tối.
+
+[nan] Row 65
+Org: 鬱陶しいなと、思った。
+Trans: Tôi đã nghĩ, thật phiền phức.
+
+[nan] Row 67
+Org: この醜い顔が珍しく――遠くからじぃっと俺のことを観察し続けているのだろう。
+Trans: Chắc nó thấy khuôn mặt xấu xí này lạ lẫm—nên cứ quan sát tôi từ xa mãi.
+
+[nan] Row 68
+Org: 気づいているぞとばかりに振り向けば、たちまち泣いて、恐がり――あいつの元へ走って行くだろう。
+Trans: Nếu tôi quay lại như muốn nói "ta biết rồi đấy", chắc chắn nó sẽ khóc thét lên vì sợ—rồi chạy về phía hắn ta cho xem.
+
+[nan] Row 69
+Org: はじめは店内と家の中とを繋ぐ出入り口から、顔を半分だけだし、俺のことを見ていた。
+Trans: Ban đầu, con bé chỉ ló nửa mặt ra từ cửa nối giữa cửa tiệm và nhà ở để nhìn tôi.
+
+[nan] Row 70
+Org: 次の日の朝は、少しだけ距離が縮まっている――あの子は俺の座る場所からいくつか離れた机の下に身体を押し込め、そこからじっと俺を見ていた。
+Trans: Sáng hôm sau, khoảng cách đã thu hẹp lại một chút—con bé chui xuống gầm bàn cách chỗ tôi ngồi vài cái ghế, và nhìn chằm chằm tôi từ đó.
+
+[nan] Row 73
+Org: 更に次の朝には、俺の隣の椅子にでも腰を下ろすのではないかと思えてしまった。
+Trans: Đến sáng hôm sau nữa, tôi cứ ngỡ nó sẽ ngồi luôn xuống cái ghế bên cạnh tôi mất.
+
+[nan] Row 75
+Org: ……約束が違うぞと、俺は堪らずあいつに言った。
+Trans: ...Tôi không kìm được mà nói với hắn rằng lời hứa đã bị vi phạm.
+
+[nan] Row 77
+Org: 俺の戸惑いなどどこふく風というようにあいつは笑っていた。
+Trans: Hắn cười như thể sự bối rối của tôi chẳng là gì.
+
+[nan] Row 81
+Org: あの子は俺の隣の席に座り、じっと、俺のことを見つめていた――う、うう。何なんだ。
+Trans: Con bé ngồi xuống ghế bên cạnh tôi, và nhìn tôi chằm chằm—ư, ư ư. Cái gì thế này.
+
+[nan] Row 82
+Org: 堪らず、俺は言った。ため息をつくように。
+Trans: Không chịu nổi nữa, tôi lên tiếng. Như một tiếng thở dài.
+
+[nan] Row 86
+Org: 何をしているんだ俺は――こんな威嚇するかのような言い方をして。もっとやさしい言い方が、声が、言葉が、あったはずだろうに。
+Trans: Tôi đang làm cái quái gì thế này—nói năng như thể đang đe dọa vậy. Lẽ ra phải có cách nói, giọng điệu, từ ngữ nhẹ nhàng hơn chứ.
+
+[nan] Row 90
+Org: 今回は自分で止めを刺してしまったようなもの。
+Trans: Lần này coi như tôi tự mình kết liễu luôn rồi.
+
+[nan] Row 94
+Org: 小さなちいさなその声に、閉じた瞼をこじ開けられた。
+Trans: Giọng nói nhỏ xíu ấy đã cạy mở đôi mắt đang nhắm nghiền của tôi.
+
+[nan] Row 99
+Org: 俺は首をかしげてしまう。
+Trans: Tôi nghiêng đầu khó hiểu.
+
+[nan] Row 101
+Org: しかし女の子はにこにこ顔を絶やすことなく、俺の目をじぃっと見つめているばかりで……。
+Trans: Vậy mà cô bé vẫn giữ nguyên nụ cười, cứ nhìn chằm chằm vào mắt tôi...
+
+[nan] Row 104
+Org: 俺は、顔を背けてしまう。恥ずかしかったからだ。……落ち着かなかったからだ。
+Trans: Tôi quay mặt đi. Vì xấu hổ. ...Vì thấy không thoải mái.
+
+[nan] Row 106
+Org: とは、聞けなかった。
+Trans: Tôi đã không thể hỏi câu đó.
+
+[nan] Row 107
+Org: その瞬間、この子の気まぐれが解け、『……怖い』と言われてしまったらどうしよう。
+Trans: Khoảnh khắc đó, tôi sợ rằng sự ngẫu hứng của con bé sẽ tan biến và nó sẽ nói 『...Sợ lắm』 thì sao.
+
+[nan] Row 108
+Org: そんな恐怖があったから。
+Trans: Bởi vì tôi sợ điều đó.
+
+[nan] Row 109
+Org: そんな未来を、想像してしまったから。
+Trans: Bởi vì tôi đã tưởng tượng ra một tương lai như thế.
+
+[nan] Row 110
+Org: だけどその日の朝、女の子はずっと、俺のそばにいてくれた。
+Trans: Nhưng sáng hôm đó, cô bé đã ở bên cạnh tôi suốt.
+
+[nan] Row 111
+Org: 俺が新聞のページを捲る。
+Trans: Tôi lật trang báo.
+
+[nan] Row 113
+Org: それがくすぐったいのか、女の子は俺が新聞のページを捲る度、目を細め、小さな笑顔を綻ばせていた。
+Trans: Có vẻ như thấy nhột, cô bé nheo mắt lại và nở một nụ cười nhỏ mỗi khi tôi lật trang báo.
+
+[nan] Row 114
+Org: そんな女の子の顔を見て、つい……、
+Trans: Nhìn khuôn mặt ấy của cô bé, tôi lỡ...
+
+[nan] Row 116
+Org: ……心の中に芽生えた言葉を、俺はぐっと堪えるばかりだった。
+Trans: ...Tôi chỉ biết kìm nén những lời vừa nảy sinh trong lòng.
+
+[nan] Row 120
+Org: 前回、俺たちが攫い――あんなことになってしまった女の子と同じ名だ。
+Trans: Cùng tên với cô bé mà lần trước chúng tôi đã bắt cóc—và gặp kết cục bi thảm đó.
+
+[nan] Row 122
+Org: そう思いはしたが……。
+Trans: Tôi đã nghĩ vậy nhưng...
+
+[nan] Row 123
+Org: ならば代わりに名付けろと言われたなら俺は何も言葉を返せない――新しく名前を考え、贈ることさえ、俺たち“怪物”には困難なことのひとつだったからだ。
+Trans: Nếu bảo tôi đặt tên thay thì tôi cũng chẳng thể thốt nên lời—việc suy nghĩ và tặng một cái tên mới cũng là một trong những điều khó khăn đối với "quái vật" chúng tôi.
+
+[nan] Row 124
+Org: 女の子を……千和を寝かしつけたなら、俺たちは“夜”に出かけていく。
+Trans: Sau khi ru cô bé... ru Chiwa ngủ, chúng tôi lại đi vào "Dạ".
+
+[nan] Row 128
+Org: あの子を“夜”の中で探すのはもう何度目になるだろう。
+Trans: Đây là lần thứ bao nhiêu chúng tôi tìm kiếm em ấy trong "Dạ" rồi nhỉ.
+
+[nan] Row 131
+Org: どんな形にせよ、もう一度、会えたなら――謝りたかった。俺たちの不注意で君は攫われてしまった。
+Trans: Dù ở hình hài nào, nếu có thể gặp lại lần nữa—tôi muốn xin lỗi. Vì sự bất cẩn của chúng tôi mà em đã bị bắt đi.
+
+[nan] Row 133
+Org: 俺たちの見解として――“不死”となったイキモノが死を迎えたならば、その他の命とは違い、“夜”の中に産まれ直すことはない――完全に消滅してしまう。本当の死だ。
+Trans: Theo quan điểm của chúng tôi—khi một sinh vật đã trở nên "bất tử" đón nhận cái chết, nó sẽ không tái sinh trong "Dạ" như những sinh mệnh khác—mà sẽ hoàn toàn tan biến. Đó là cái chết thực sự.
+
+[nan] Row 135
+Org: おそらく、無から産まれたのだろう俺と、愛する娘と命を交換した元人間の怪物も、死ねばそのまま――
+Trans: Có lẽ, tôi - kẻ được sinh ra từ hư vô, và con quái vật nguyên bản là người đã đánh đổi mạng sống với đứa con gái yêu dấu, nếu chết đi thì cũng sẽ—
+
+[nan] Row 137
+Org: どちらともなく“あの子とはもう会えない”と理解し、そして“不死”なる者の俺たちの死こそ本当の死なのだと理解した“夜”だったけれど――……
+Trans: Trong cái "Dạ" mà cả hai chúng tôi đều ngầm hiểu rằng "sẽ không bao giờ gặp lại cô bé ấy nữa", và cái chết của những kẻ "bất tử" như chúng tôi mới là cái chết thực sự—...
+
+[nan] Row 140
+Org: どうした？　そう問いかける俺に、『あの子だ』と小さく言った。
+Trans: Sao vậy? Tôi hỏi, và hắn khẽ đáp 『Là con bé』.
+
+[nan] Row 142
+Org: それは、毎夜、俺たちが探し求めていた子ではなく……新しい千和のほう。
+Trans: Đó không phải là đứa trẻ chúng tôi tìm kiếm mỗi đêm... mà là Chiwa mới.
+
+[nan] Row 143
+Org: おそらく毎夜のように出かけていく俺たちの後を追ってきたのだろうとあいつは言った。
+Trans: Hắn nói rằng có lẽ con bé đã đuổi theo chúng tôi, những kẻ đêm nào cũng đi ra ngoài.
+
+[nan] Row 146
+Org: そして……、もうひとつ。邪悪な気配も、俺たちには届いていた。
+Trans: Và... còn một điều nữa. Một khí tức tà ác cũng đã truyền đến chúng tôi.
+
+[nan] Row 149
+Org: あいつは千和を助けに、一足で、“夜”の空へと舞い上がり――……俺は、
+Trans: Hắn bay vút lên bầu trời "Dạ" để đi cứu Chiwa—...còn tôi,
+
+[nan] Row 151
+Org: 俺は、俺たちの家で眠る千和を攫いにやって来た――ふたりの化け物たちの前に立つ。
+Trans: Tôi đứng trước mặt hai con quái vật—kẻ đã đến bắt cóc Chiwa đang ngủ trong nhà chúng tôi.
+
+[nan] Row 160
+Org: 千和も同じだと、思った。
+Trans: Tôi nghĩ, Chiwa cũng giống vậy.
+
+[nan] Row 161
+Org: 千和も俺と同じで、愛されたい者に愛してもらえず、いつもさみしいばかり、だったのか。
+Trans: Có phải Chiwa cũng giống tôi, không được người mình muốn yêu thương đáp lại, lúc nào cũng chỉ thấy cô đơn?
+
+[nan] Row 163
+Org: そう思うと、胸のどこかがちくりと痛んだ。
+Trans: Nghĩ đến đó, một nơi nào đó trong lồng ngực tôi nhói đau.
+
+[nan] Row 166
+Org: 千和のそんな言葉に俺は驚かされていた――ふたり？　今、ふたりにと言ったのか？　あいつにだけじゃなく？　聞き間違えか？
+Trans: Lời nói ấy của Chiwa khiến tôi kinh ngạc—Hai người? Em vừa nói là hai người sao? Không chỉ hắn ta? Mình nghe nhầm à?
+
+[nan] Row 168
+Org: あいつは太陽という意味で、俺は夜という意味の言葉をくれた。聞き間違いではなかったようだ。都合のいい思い込みでもなかったようだ。
+Trans: Hắn là mặt trời, còn tôi được tặng cho cái tên mang ý nghĩa là đêm (Nacht). Có vẻ không phải nghe nhầm. Cũng không phải là sự ảo tưởng tiện lợi.
+
+[nan] Row 170
+Org: ならば、尚更だ。まさか俺にも“お礼”をくれるとは思わなかった――この子に名前を贈ったのも。この子を助けに向かったのも。俺ではなく、あいつだったのに……。
+Trans: Vậy thì lại càng lạ. Tôi không ngờ mình cũng nhận được "lời cảm ơn"—người tặng tên cho con bé là hắn. Người đi cứu con bé cũng là hắn. Đâu phải là tôi...
+
+[nan] Row 171
+Org: それなのに、俺にも名前を……。
+Trans: Vậy mà, tôi cũng được nhận một cái tên...
+
+[nan] Row 178
+Org: だけど、俺の醜い口元からこぼれ落ちるのは……、
+Trans: Nhưng, từ cái miệng xấu xí của tôi lại thốt ra...
+
+[nan] Row 181
+Org: そして顔を開いた新聞で隠し――情けない自分に呆れ、大きなおおきなため息をつく。“もっとマシなことを言えないのか”と。
+Trans: Rồi tôi dùng tờ báo đang mở che mặt đi—chán ghét bản thân thảm hại, tôi thở dài một hơi thật dài. Tự hỏi "Sao mình không nói được câu nào tử tế hơn chứ".
+
+[nan] Row 184
+Org: その日の晩。千和が眠りについた頃、フロアに音楽をかけてみた。
+Trans: Đêm hôm đó. Khi Chiwa đã ngủ, tôi thử mở nhạc ở sảnh.
+
+[nan] Row 187
+Org: 騒がしい夜だなと常々思っていたけれど……。
+Trans: Tôi vẫn thường nghĩ đây là một đêm ồn ào nhưng...
+
+[nan] Row 188
+Org: ああ、これはまるで俺の心の中みたいだなと、思った。
+Trans: A, tôi nghĩ, nó giống hệt như trong lòng tôi vậy.
+
+[nan] Row 191
+Org: そのくせいつも心は“どうしてもっと上手にできないのか”と懊悩ばかりで騒がしく――ああ、本当に、まるで不安定な俺の心みたいだなと思えなくもなかったのだ。
+Trans: Vậy mà trong lòng lúc nào cũng ồn ào nỗi sầu muộn "tại sao mình không làm tốt hơn được"—a, thật sự, không thể không nghĩ rằng nó giống hệt trái tim bất ổn của tôi.
+
+[nan] Row 193
+Org: ふと、思う。
+Trans: Tôi chợt nghĩ.
+
+[nan] Row 195
+Org: “……誰からも愛されない自分。そんな俺は、どうして産まれてきたんだろう”
+Trans: "...Kẻ không được ai yêu thương như mình. Kẻ như tôi, tại sao lại được sinh ra chứ."
+
+[nan] Row 197
+Org: 名をもらえたことで、自分というイキモノを認めてもらえたような気がした。
+Trans: Được nhận một cái tên, tôi cảm giác như sinh vật là mình đây đã được thừa nhận.
+
+[nan] Row 198
+Org: この命に、価値のようなものが産まれたような気もしていた――千和が笑い、俺に贈ってくれたもの。
+Trans: Tôi cũng cảm thấy như sinh mạng này đã nảy sinh một giá trị nào đó—thứ mà Chiwa cười và tặng cho tôi.
+
+[nan] Row 200
+Org: まただ。またふと、心に芽生えた不穏な言葉をぐっと飲み込み――代わりに『お返しをしたい』と、俺は、思った。
+Trans: Lại nữa. Tôi lại nuốt ngược những lời bất an vừa nảy mầm trong lòng—thay vào đó, tôi nghĩ, 『Mình muốn đáp lễ』.
+
+[nan] Row 201
+Org: 名前を贈ってくれたことは、あの子にとってそれほどの意味はなかっただろうけれど……。
+Trans: Việc tặng tên cho tôi có lẽ chẳng mang ý nghĩa gì to tát với con bé đâu, nhưng...
+
+[nan] Row 205
+Org: 俺が持ちかけた相談に、あいつはそう答えてくれた。
+Trans: Hắn trả lời khi tôi hỏi ý kiến.
+
+[ソル] Row 208
+Org: ああ。私の娘は、いつもくまのぬいぐるみをぎゅっとして離さなかった。私が誕生日に贈ったものだよ
+Trans: Ừ. Con gái tôi lúc nào cũng ôm chặt con gấu bông không chịu buông. Đó là quà sinh nhật tôi tặng đấy.
+
+[nan] Row 212
+Org: 故に。手作りすることに、決めた。
+Trans: Vì vậy. Tôi quyết định sẽ tự tay làm.
+
+[nan] Row 214
+Org: ただ手順通りに作ろうとしているだけなのに……。
+Trans: Tôi chỉ làm theo đúng hướng dẫn thôi mà...
+
+[nan] Row 216
+Org: できあがったぬいぐるみは、まるで俺みたいに醜くて、ぐちゃぐちゃで……。
+Trans: Con thú bông hoàn thành trông xấu xí, méo mó hệt như tôi vậy...
+
+[nan] Row 218
+Org: 上手にできたプレゼント渡し、そして笑顔になってくれる千和の姿が……。
+Trans: Cảnh tượng tôi trao món quà làm đẹp đẽ, và Chiwa mỉm cười...
+
+[nan] Row 219
+Org: そんなふうに夢見てしまった未来の光景が、うすぼんやりとして消えていく……。
+Trans: Viễn cảnh tương lai mà tôi lỡ mộng tưởng ấy trở nên mờ nhạt rồi tan biến...
+
+[nan] Row 220
+Org: このときほど、自分が何も作り出せない“怪物”であることを疎ましく思ったことはなかった――
+Trans: Chưa bao giờ tôi thấy chán ghét việc mình là một "quái vật" không thể tạo ra bất cứ thứ gì như lúc này—
+
+[nan] Row 222
+Org: 落ち込んだ。泣きたいとさえ、思った。
+Trans: Tôi suy sụp. Thậm chí còn muốn khóc.
+
+[nan] Row 223
+Org: まさか自分がこんなことでここまで気落ちしようとは……。自分自身、驚き、戸惑うほどだった。
+Trans: Không ngờ mình lại thất vọng đến thế vì chuyện này... Chính tôi cũng ngạc nhiên và bối rối.
+
+[nan] Row 224
+Org: そんな俺を見かねたのだろう。
+Trans: Chắc là không thể đứng nhìn tôi như vậy.
+
+[nan] Row 226
+Org: ソルが、ゴミ箱に放り込んでいたその出来損ないのぬいぐるみを勝手に拾い上げ、千和への“入学祝い”として手渡してしまっていた。
+Trans: Sol đã tự ý nhặt con thú bông thảm hại mà tôi vứt vào thùng rác lên, và đưa cho Chiwa như một món quà "nhập học".
+
+[nan] Row 227
+Org: ぴかぴかの制服と一緒に押し込められていたぬいぐるみ――醜くて、ブサイクで、まるでホラーだ。まるで、俺自身だ。
+Trans: Con thú bông bị nhét cùng bộ đồng phục mới tinh—xấu xí, thô kệch, trông như phim kinh dị. Hệt như chính bản thân tôi.
+
+[nan] Row 228
+Org: どういうつもりだ。俺はあいつを睨み付ける。
+Trans: Cậu tính làm cái trò gì vậy. Tôi trừng mắt nhìn hắn.
+
+[ナハト] Row 234
+Org: ふん。だから言っただろう
+Trans: Hừ. Tôi đã bảo rồi mà.
+
+[nan] Row 235
+Org: まるで“俺は反対したのにソルが言うことを聞かず買ってきたんだ”――みたいな言い方を、つい、してしまう。
+Trans: Tôi lỡ thốt ra cái giọng điệu như kiểu "Tôi đã phản đối rồi mà Sol không nghe cứ mua về đấy"—.
+
+[nan] Row 241
+Org: 驚いている俺の顔をちらちらと見ながら、あいつは言った。
+Trans: Vừa liếc nhìn vẻ mặt ngạc nhiên của tôi, hắn vừa nói.
+
+[nan] Row 249
+Org: また、心の中に、言い得ぬ不穏な言葉が芽生えてしまい……。
+Trans: Lại có những lời nói không tên đầy bất ổn nảy mầm trong tim tôi...
+
+[nan] Row 251
+Org: 俺はやはり、ぐっと、堪えるばかりだった。
+Trans: Rốt cuộc, tôi vẫn chỉ biết cắn răng chịu đựng.
+
+[nan] Row 253
+Org: 千和がはじめて学校に行った日は落ち着かなかった。
+Trans: Ngày đầu tiên Chiwa đi học, tôi đứng ngồi không yên.
+
+[nan] Row 254
+Org: 千和を外の世界の学校に通わせようという、ソルの主張もわからないでもなかった――いつか俺たちは離れ行く。
+Trans: Tôi cũng hiểu chủ trương của Sol về việc cho Chiwa đi học ở thế giới bên ngoài—rồi một ngày chúng tôi sẽ phải chia xa.
+
+[nan] Row 256
+Org: それはわかる。きっと、必要なことなのだろう。
+Trans: Điều đó tôi hiểu. Chắc chắn là điều cần thiết.
+
+[nan] Row 257
+Org: ……だけど、わざわざつらいことがあるかもしれない“外の世界”に向かわせる必要があるのか俺にはわからなかった。
+Trans: ...Nhưng tôi không hiểu tại sao nhất thiết phải bắt con bé đối mặt với "thế giới bên ngoài" nơi có thể chứa đầy những điều đau khổ.
+
+[nan] Row 260
+Org: 時計ばかりを俺は見ている。
+Trans: Tôi chỉ toàn nhìn đồng hồ.
+
+[nan] Row 261
+Org: そんな俺にあいつは苦笑いを浮かべていた。
+Trans: Thấy tôi như vậy, hắn cười khổ.
+
+[nan] Row 263
+Org: ふたり、店のフロアであの子の帰りを今かいまかと待っている最中だった。
+Trans: Hai người chúng tôi đang đợi con bé về ở sảnh tiệm.
+
+[nan] Row 265
+Org: 俺はたばこにマッチで火を付ける。
+Trans: Tôi quẹt diêm châm thuốc.
+
+[nan] Row 267
+Org: そんなふうに毒づきながらも、時計から視線を外すことができなかった。
+Trans: Miệng thì nói lời cay độc, nhưng mắt tôi không thể rời khỏi chiếc đồng hồ.
+
+[nan] Row 268
+Org: その日は音楽もかけ忘れ、映画を鑑賞することもなく、ただただふたり、あの子の帰りを待っていた。
+Trans: Hôm đó tôi quên cả mở nhạc, chẳng xem phim, hai người chúng tôi cứ thế chờ con bé về.
+
+[nan] Row 273
+Org: 思わず立ち上がりそうになる。
+Trans: Tôi suýt thì đứng bật dậy.
+
+[nan] Row 274
+Org: そんな自分に戸惑い、なんとか腰を下ろす。
+Trans: Bối rối trước phản ứng của chính mình, tôi cố gắng ngồi xuống.
+
+[nan] Row 275
+Org: ソルは俺の様子にやれやれと肩を竦めていた。
+Trans: Sol nhún vai ngán ngẩm nhìn tôi.
+
+[nan] Row 281
+Org: そんな千和を見ていると、やっぱり、俺は……、
+Trans: Nhìn Chiwa như thế, quả nhiên, tôi...
+
+[nan] Row 294
+Org: ソルに手を引かれて行く千和の背中を俺は見送る。
+Trans: Tôi tiễn bóng lưng Chiwa được Sol dắt đi.
+
+[nan] Row 298
+Org: あの子が無事に帰ってくる度、俺はいつも隠れて安堵のため息ばかりついていた。
+Trans: Mỗi lần con bé bình an trở về, tôi lại lén thở phào nhẹ nhõm.
+
+[nan] Row 299
+Org: だけどそんな俺をよそに、殆ど休みなく外の学校へと千和は通った。
+Trans: Nhưng mặc kệ tôi như thế, Chiwa vẫn đến trường gần như không nghỉ ngày nào.
+
+[nan] Row 300
+Org: あんなに小さな身体で、外の世界で毎日色々なことと戦って帰ってくる――あの子はすごい。そう、思った。
+Trans: Cơ thể nhỏ bé ấy, mỗi ngày đều chiến đấu với bao điều ở thế giới bên ngoài rồi trở về—con bé thật giỏi. Tôi đã nghĩ vậy.
+
+[nan] Row 301
+Org: そんな千和に、俺ができることは何かないのか……。
+Trans: Tôi có thể làm gì cho một Chiwa như thế không...
+
+[nan] Row 303
+Org: そんなこと俺にはできない。それに誰も望んでいないだろう。
+Trans: Cỡ tôi thì không làm được chuyện đó. Mà cũng chẳng ai mong đợi điều đó.
+
+[ナハト] Row 304
+Org: ……ならばせめて、毎日、疲れ切って帰ってくるのだろうあの子のために、美味しいご飯くらい作っておけるようになりたい
+Trans: ...Vậy thì ít nhất, tôi muốn học nấu ăn để làm những bữa cơm ngon cho con bé, người có lẽ sẽ kiệt sức mỗi khi trở về.
+
+[nan] Row 306
+Org: 俺は、料理の勉強を重ねてた――“夜の怪物”たるこの俺が、料理なんて本当に習得できるのか。
+Trans: Tôi đã miệt mài học nấu ăn—một "quái vật bóng đêm" như tôi liệu có thực sự học nấu ăn được không.
+
+[nan] Row 308
+Org: 俺もこれくらい、がんばりたい――……がんばれよ、俺。
+Trans: Tôi cũng muốn cố gắng được chừng này—...Cố lên nào, tôi ơi.
+
+[nan] Row 309
+Org: 失敗をいくつも重ねた。
+Trans: Tôi đã thất bại vô số lần.
+
+[nan] Row 314
+Org: お弁当が必要なときは精一杯、美味しいものを作り――ソルから千和へ渡してくれるようにと、託けた。
+Trans: Khi cần mang cơm hộp, tôi đã dồn hết tâm sức làm những món thật ngon—rồi nhờ Sol đưa cho Chiwa.
+
+[nan] Row 316
+Org: 帰宅したあいつから、千和がどんなふうにがんばっていたのかを聞く度に、思った。
+Trans: Mỗi lần nghe hắn kể về việc Chiwa đã cố gắng thế nào sau khi về nhà, tôi lại nghĩ.
+
+[nan] Row 318
+Org: 本当は、それらに俺も行ってみたかった。
+Trans: Thật ra thì, tôi cũng muốn đi thử.
+
+[nan] Row 319
+Org: あの子が外の世界でどんなふうに生きているのか。遠くからでもいい、見てみたかった。
+Trans: Con bé sống thế nào ở thế giới bên ngoài. Dù chỉ nhìn từ xa thôi, tôi cũng muốn thấy.
+
+[nan] Row 324
+Org: しかし目立ったイベントごとはいつもあいつに頼んだ。誰だって醜いものより、うつくしいものに見守られていたいはずだから。
+Trans: Nhưng những sự kiện nổi bật tôi luôn nhờ hắn. Vì ai cũng muốn được dõi theo bởi những thứ đẹp đẽ hơn là những thứ xấu xí mà.
+
+[nan] Row 325
+Org: 行ってらっしゃいも、おかえりなさいも、すべてあいつに任せる代わりに――……醜い俺は、目立たない部分で、いつもがんばっているあの子のことを応援できたらと、思った。
+Trans: Thay vì để hắn lo liệu mọi việc từ chào đi đến đón về—...tên xấu xí là tôi đây nghĩ rằng mình có thể âm thầm cổ vũ con bé luôn nỗ lực ở những nơi không ai thấy.
+
+[nan] Row 326
+Org: いっぱい遊んで、どろだらけで帰ってきたなら洗濯を。
+Trans: Nếu con bé chơi đùa thỏa thích và lấm lem bùn đất trở về, tôi sẽ giặt giũ.
+
+[nan] Row 327
+Org: 疲れ切ったあの子がしっかり休めるよう、塵も残さず家中きれいに掃除を重ね。
+Trans: Để con bé mệt nhoài có thể nghỉ ngơi thoải mái, tôi dọn dẹp nhà cửa sạch bong không một hạt bụi.
+
+[nan] Row 328
+Org: 育ち盛りでお腹を空かせたあの子のために、もう随分と上達した暖かい料理を、毎日、欠かさず。
+Trans: Vì con bé đang tuổi ăn tuổi lớn hay đói bụng, tôi nấu những bữa ăn nóng hổi đã tiến bộ hơn nhiều, mỗi ngày, không sót bữa nào.
+
+[nan] Row 330
+Org: それが、俺に与えられた命の使い道だと……だったらいいなと、そう思って止まない一年間だった。
+Trans: Đó là cách sử dụng sinh mạng được ban cho tôi... tôi đã luôn mong mỏi như thế suốt một năm qua.
+
+[nan] Row 333
+Org: 千和が家に来てから、時間の流れを意識するようになっている自分たちだからこそ、それに気づいた。
+Trans: Chính vì chúng tôi bắt đầu ý thức về dòng thời gian kể từ khi Chiwa đến nhà, nên mới nhận ra điều đó.
+
+[nan] Row 338
+Org: つぶやいてみる。
+Trans: Tôi lẩm bẩm thử.
+
+[nan] Row 339
+Org: すると、それは……それは、何より幸福なことであるように感じられた。
+Trans: Và rồi, điều đó... tôi cảm thấy đó là điều hạnh phúc hơn bất cứ thứ gì.
+
+[nan] Row 340
+Org: ならば千和がここへやって来た日。その日を千和の誕生日ということにするのはどうだろう。あいつにそう提案した。
+Trans: Vậy thì lấy ngày Chiwa đến đây. Chọn ngày đó làm sinh nhật Chiwa thì thế nào. Tôi đề xuất với hắn.
+
+[ソル] Row 341
+Org: それは、うん。良い考えだと思うけれど……。例によって、私がそう決めたんだよと、あの子には伝えておくのか？
+Trans: Cái đó, ừm. Ý hay đấy nhưng mà... Lại như mọi khi, cậu muốn tôi nói với con bé là do tôi quyết định hả?
+
+[nan] Row 346
+Org: 吐き捨てるようにしてそう言った。
+Trans: Tôi buông lời như nhổ nước bọt.
+
+[nan] Row 347
+Org: そして数日後に控えたその日は、千和を朝から外へと連れ出しておいてほしいと、願った。
+Trans: Và tôi mong hắn hãy đưa Chiwa ra ngoài từ sáng vào cái ngày vài hôm nữa đó.
+
+[ナハト] Row 348
+Org: ……ケーキを作ってみる。ふたりが帰ってくるまでには完成させておくつもりだ。誕生日には甘いケーキが必要なんだろ？
+Trans: ...Tôi sẽ thử làm bánh kem. Tôi định sẽ hoàn thành trước khi hai người về. Sinh nhật thì cần bánh ngọt đúng không?
+
+[ナハト] Row 350
+Org: ……練習してたんだ。ずっと。たぶんうまくできると思う。部屋も飾り付けておく。きっと、喜んでくれるよな
+Trans: ...Tôi đã tập luyện. Suốt đấy. Chắc là sẽ làm tốt thôi. Tôi cũng sẽ trang trí phòng nữa. Chắc con bé sẽ vui lắm.
+
+[nan] Row 351
+Org: ……駆け足でやって来たその日は、千和のお誕生日と決めた日は、朝から大忙しだった。
+Trans: ...Ngày đó đến nhanh như chạy, cái ngày được quyết định là sinh nhật Chiwa, tôi bận tối mắt tối mũi từ sáng.
+
+[nan] Row 353
+Org: ふたりに持たせるお弁当も朝から作り……。
+Trans: Tôi cũng làm sẵn cơm hộp từ sáng để hai người mang theo...
+
+[nan] Row 355
+Org: 短いみじかい制限時間のその中で、練習していたケーキを作る。
+Trans: Trong giới hạn thời gian ngắn ngủi đó, tôi làm chiếc bánh kem đã tập luyện.
+
+[nan] Row 356
+Org: スポンジを焼く合間に、店のフロアを飾り付け、プレゼントの用意にと、こんな巨体がめまぐるしく走り回った。
+Trans: Trong lúc nướng cốt bánh, tôi trang trí sảnh tiệm, chuẩn bị quà, thân hình to lớn này cứ chạy ngược chạy xuôi.
+
+[nan] Row 357
+Org: あの子のためにと手縫いしたぬいぐるみは、やはりどうにもかわいい出来とはほど遠く……。
+Trans: Con thú bông tôi tự khâu cho con bé, quả nhiên vẫn chẳng thể gọi là dễ thương nổi...
+
+[nan] Row 359
+Org: そんな確信と期待とで準備を急ぎ……。
+Trans: Cứ tin tưởng và kỳ vọng như thế, tôi gấp rút chuẩn bị...
+
+[nan] Row 364
+Org: 俺は何事もなかったように、いつもの椅子に腰掛け、新聞を開いていた。
+Trans: Tôi giả vờ như không có chuyện gì, ngồi xuống chiếc ghế quen thuộc và mở báo ra.
+
+[nan] Row 370
+Org: プレゼントの新しいぬいぐるみも、ああ、やっぱり、思った通りだ――ぎゅっと抱きしめ、喜んでくれていた。
+Trans: Món quà thú bông mới cũng vậy, a, quả nhiên, đúng như tôi nghĩ—em ôm chặt lấy nó và tỏ ra rất vui mừng.
+
+[nan] Row 376
+Org: だけど、千和がハッとしたような顔をした。どきりとする。ケーキを食べる手を止めてもいた。
+Trans: Nhưng, Chiwa bỗng làm vẻ mặt như chợt nhận ra điều gì. Tôi giật thót. Em ngừng tay ăn bánh.
+
+[nan] Row 378
+Org: 俺たち“夜の怪物”に味覚はない。故に。ろくに味見もできてはいない。
+Trans: Lũ "quái vật bóng đêm" chúng tôi không có vị giác. Vì thế. Tôi không thể nếm thử đàng hoàng được.
+
+[nan] Row 379
+Org: もしフルーツのひとつが腐っていたとしても、俺がそれを漏らさず気づける保証はどこにもないのだ。
+Trans: Dù một trái cây nào đó có bị hỏng, cũng không có gì đảm bảo là tôi sẽ nhận ra mà không bỏ sót.
+
+[nan] Row 381
+Org: 一瞬で、心に分厚い雲が広がるようだったけれど……。
+Trans: Trong khoảnh khắc, mây đen dày đặc như phủ kín cõi lòng tôi...
+
+[nan] Row 383
+Org: 千和が、言った。腰掛けていた椅子から降り、俺たちに向かい、頭を下げて。
+Trans: Chiwa đã nói. Em bước xuống khỏi ghế, hướng về phía chúng tôi và cúi đầu.
+
+[nan] Row 386
+Org: 思わずだ。新聞を、落としてしまった。
+Trans: Vô thức. Tôi đánh rơi tờ báo.
+
+[nan] Row 392
+Org: 小さく、本当に本当に小さく、俺はつぶやく。
+Trans: Tôi lẩm bẩm, thật nhỏ, thật sự rất nhỏ.
+
+[nan] Row 393
+Org: はしゃぐソルの声など殆ど聞こえていなかった。
+Trans: Tiếng Sol đang vui vẻ ồn ào tôi hầu như không nghe thấy.
+
+[nan] Row 396
+Org: また、俺の心に不穏な言葉が芽生えてしまう――
+Trans: Lại nữa, những lời bất ổn lại nảy mầm trong tim tôi—
+
+[nan] Row 400
+Org: ふっと心に芽生える、この不穏な気持ちを、押さえられない――……っ。
+Trans: Tôi không thể kìm nén cảm xúc bất ổn bỗng nảy mầm trong lòng này được nữa—...ư.
+
+[nan] Row 403
+Org: 心の中に芽生える言葉を、気持ちを、今回こそ飲み込めなかった――……一生だ。一生、俺が、お前を守っていきたい。つらいことになんて遭わせたくない。
+Trans: Tôi đã không thể nuốt trôi những lời nói, những cảm xúc nảy mầm trong lòng lần này—...Là trọn đời. Trọn đời này, tôi muốn bảo vệ em. Tôi không muốn em gặp bất cứ chuyện gì đau khổ.
+
+[nan] Row 406
+Org: 強くなくていい。弱くていい。俺たちがそばで守っていけば良いだけの話なのに……それなのに……っ。
+Trans: Không cần mạnh mẽ. Yếu đuối cũng được. Chúng tôi chỉ cần ở bên bảo vệ là được mà... vậy mà...
+
+[nan] Row 407
+Org: いやだ。どうしてっ。離れたくない。離したくない。ずっと一緒に暮らしていきたい。
+Trans: Không chịu đâu. Tại sao chứ. Tôi không muốn rời xa. Không muốn buông tay. Tôi muốn sống cùng em mãi mãi.
+
+[nan] Row 409
+Org: その夜はいつまでも落ち着かなかった。
+Trans: Đêm đó, tôi mãi không tài nào bình tĩnh lại được.
+
+[nan] Row 411
+Org: 俺なんかをパパと呼んでくれた。
+Trans: Đã gọi kẻ như tôi là Bố.
+
+[nan] Row 412
+Org: 千和からもらった言葉の贈り物。これはきっと、俺の生涯の宝物になるはずだった。
+Trans: Món quà lời nói tôi nhận được từ Chiwa. Đây chắc chắn sẽ trở thành báu vật của đời tôi.
+
+[ナハト] Row 413
+Org: ……明日、俺は千和の顔をまっすぐ見られるだろうか
+Trans: ...Ngày mai, liệu tôi có thể nhìn thẳng vào mặt Chiwa không đây.
+
+[nan] Row 415
+Org: すっかり浮かれてしまっていた俺は、ただの“怪物”のくせに、夢を見た――繰り返し、繰り返し……、
+Trans: Kẻ hoàn toàn lâng lâng sung sướng là tôi đây, dù chỉ là một con "quái vật", lại nằm mơ—lặp đi lặp lại...
+
+[nan] Row 417
+Org: ……そんな夢を、俺は、いつまでも見続けてしまっていた。
+Trans: ...Tôi đã cứ mơ mãi về giấc mơ như thế.
+
+[nan] Row 419
+Org: そう思えた。
+Trans: Tôi đã nghĩ vậy.
+
+[nan] Row 420
+Org: そう、思えていたのに――……
+Trans: Tôi đã nghĩ vậy, thế mà—...
+

@@ -1,0 +1,68 @@
+
+--- Samples for ナハト ---
+Row 1 org: ……なんだ、その子どもは
+Row 1 mtl: nan
+Row 1 trans: ...Cái gì đây, đứa trẻ đó là sao?
+Row 37 org: ……だがそうなれば、お前が攫ってきたあの子はいつか、ここを出て行かなきゃならないぞ
+Row 37 mtl: nan
+Row 37 trans: ...Nhưng nếu làm vậy, đứa trẻ cậu bắt về một ngày nào đó sẽ phải rời khỏi đây.
+Row 38 org: 俺たちは人と触れあえない。あの子の隣にいられるのは、あの子が子どもでいられる時間内だけだ
+Row 38 mtl: nan
+Row 38 trans: Chúng ta không thể tiếp xúc với con người. Chúng ta chỉ có thể ở bên con bé khi nó còn là một đứa trẻ.
+Row 41 org: ……いいのか？
+Row 41 mtl: nan
+Row 41 trans: ...Cậu thấy ổn chứ?
+Row 43 org: お前の攫ってきたあの子は、前回の子を喰らった“ヒトデナシ”の娘だぞ
+Row 43 mtl: nan
+Row 43 trans: Đứa trẻ cậu mang về là con gái của "lũ cầm thú" đã ăn thịt cô bé lần trước đấy.
+
+--- Samples for ？？？ ---
+Row 21 org: …………
+Row 21 mtl: nan
+Row 21 trans: ......
+Row 63 org: …………
+Row 63 mtl: nan
+Row 63 trans: ......
+Row 87 org: ……っ
+Row 87 mtl: nan
+Row 87 trans: ...Ư
+Row 92 org: ……お星さま
+Row 92 mtl: nan
+Row 92 trans: ...Ông sao.
+Row 96 org: お星さまを、見ていたの。きらきらしてて、とってもきれい
+Row 96 mtl: nan
+Row 96 trans: Em đang ngắm những ông sao. Lấp lánh, đẹp lắm ạ.
+
+--- Samples for ソル ---
+Row 34 org: ……ああ、だからあの子のことを不死にはしない。君にはそうお願いしたいんだ
+Row 34 mtl: nan
+Row 34 trans: ...À, thế nên tôi sẽ không biến cô bé này thành bất tử. Tôi muốn nhờ cậu chuyện đó.
+Row 36 org: あの子のことはあくまでも人間として育てよう。私たちふたりで
+Row 36 mtl: nan
+Row 36 trans: Hãy nuôi dạy con bé như một con người bình thường. Chỉ hai chúng ta thôi.
+Row 39 org: ……ああ。だからあの子には、外の世界ででも自分ひとりで生きていけるだけの賢さを学んでいってほしい。そういうふうにして育てていこうと思う
+Row 39 mtl: nan
+Row 39 trans: ...Ừ. Vì vậy tôi muốn dạy cho con bé đủ khôn ngoan để có thể tự mình sống sót ở thế giới bên ngoài. Tôi định sẽ nuôi dạy con bé theo cách đó.
+Row 40 org: そして願わくば、共に支え合って歩いて行ける、そんな誰かと出会ってほしい。それらが全部揃うまでは、あの子の人生に責任を持ちたい。そう、願ってる
+Row 40 mtl: nan
+Row 40 trans: Và tôi hy vọng con bé sẽ gặp được ai đó có thể cùng nương tựa và bước tiếp. Cho đến khi tất cả những điều đó thành hiện thực, tôi muốn chịu trách nhiệm về cuộc đời của con bé. Tôi mong là vậy.
+Row 42 org: いい、とは……？
+Row 42 mtl: nan
+Row 42 trans: Ổn, là sao cơ...?
+
+--- Samples for 千和 ---
+Row 164 org: ……ふたりにお名前を贈ってもいい？
+Row 164 mtl: nan
+Row 164 trans: ...Em tặng tên cho hai người được không?
+Row 167 org: あなたはソルで、あなたは……ナハト
+Row 167 mtl: nan
+Row 167 trans: Chú là Sol, còn chú là... Nacht.
+Row 225 org: ぬいぐるみ……？
+Row 225 mtl: nan
+Row 225 trans: Gấu bông...?
+Row 229 org: …………
+Row 229 mtl: nan
+Row 229 trans: ......
+Row 237 org: かわいい
+Row 237 mtl: nan
+Row 237 trans: Dễ thương quá.

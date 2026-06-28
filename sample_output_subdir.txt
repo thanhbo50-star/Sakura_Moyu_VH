@@ -1,0 +1,21 @@
+                                  org                                                                            trans
+0                                 NaN                                                                              NaN
+1                     世界がそっと、ため息をつく――                                                      Thế giới lặng lẽ, thở dài--
+2                                 胸に。                                                                   Nơi lồng ngực.
+3                                 瞳に。                                                                     Nơi đôi mắt.
+4                             ……心の中に。                                                         ... Và cả trong con tim.
+5                        そんな言葉が舞い降りた。                                   Những lời nói ấy như từ trên trời giáng xuống.
+6                                …………                                                                              ...
+7                                ひら……                                                                       Xào xạc...
+8                                 ひら…                                                                       Xào xạc...
+9                                ひらり。                                                                       Xào xạc...
+10                     トンネルを走る真っ暗な車窓。                         Cửa sổ xe lửa tối đen như mực khi nó chạy qua đường hầm.
+11    そのほんの少しの隙間から、どこからか小さな春色が舞い込んで――                 Từ đâu đó, một chút sắc xuân len lỏi qua khoảng trống nhỏ bé đó…
+12                             ……う、んん                                                                  ... Ư... Hưm...
+13                     ――鼻先に花びらが、ひとつ。                                                      --Một cánh hoa đậu lên mũi.
+14                    隣に座るあの子の寝顔を彩った。            Nhuộm lên sắc màu cho gương mặt đang say ngủ của cô bé ngồi cạnh tôi.
+15                             ……くしゅっ                                                                         *Hắt xì*
+16  小さなくしゃみにもめげない一片を摘もうと、そっと伸ばした俺の手は。  Dù chỉ là cơn hắt hơi nhẹ của cô bé, tôi vẫn khẽ với tay và gạt đi cánh hoa đó.
+17                          ……だい、じょうぶ                                                              ... Không, sao đâu.
+18               俺のその手は、あの子にそっと、握られた。                                                   Cô bé ấy, khẽ nắm lấy tay tôi.
+19                         ……だいじょうぶだよ                                                            ... Không sao đâu mà.
